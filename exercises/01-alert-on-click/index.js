@@ -1,3 +1,3 @@
 window.myClickFunction = function myClickFunction() {
-	alert("Your first function!");
+    alert("Your first function!");
 };
